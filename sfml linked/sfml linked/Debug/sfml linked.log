@@ -1,0 +1,12 @@
+﻿  Source1.cpp
+C:\Users\Administrator\source\repos\sfml linked\sfml linked\Header.h(140,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Administrator\source\repos\sfml linked\sfml linked\Header.h(141,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  sfml linked.vcxproj -> C:\Users\Administrator\source\repos\sfml linked\Debug\sfml linked.exe
